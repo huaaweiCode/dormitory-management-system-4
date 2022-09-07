@@ -1,10 +1,5 @@
 # 基于jsp的宿舍管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**宿舍4**    ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -70,12 +65,4 @@
 
 ![学生-查看缺勤记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902213.jpg)
 
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**宿舍4**     ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
